@@ -1,7 +1,6 @@
 {
   "name": "shai-cli",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,14 @@
   },
   "devDependencies": {
     "@types/node": "^18.14.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcmr/shai-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kcmr/shai-cli/issues"
+  },
+  "homepage": "https://github.com/kcmr/shai-cli#readme",
+  "description": ""
 }
